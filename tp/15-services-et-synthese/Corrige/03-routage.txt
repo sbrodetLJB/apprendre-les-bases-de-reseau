@@ -1,0 +1,6 @@
+# TP 15 - Exercice 3 : routage entre les deux sites
+# Réponds "oui" ou "non" à la première ligne
+
+R2 peut-il utiliser une seule route résumée pour joindre les deux réseaux du Site A : non
+Passerelle utilisée par R1 pour joindre le LAN Utilisateurs B : 192.168.100.114
+Passerelle utilisée par R2 pour joindre le LAN Serveurs A : 192.168.100.113

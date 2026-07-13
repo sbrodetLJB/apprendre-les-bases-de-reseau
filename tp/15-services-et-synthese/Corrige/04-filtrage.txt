@@ -1,0 +1,5 @@
+# TP 15 - Exercice 4 : filtrage sur R1 (voir la règle dans 00-cahier-des-charges.md)
+# Réponds par "autorisé" ou "bloqué"
+
+TCP depuis un poste du LAN Utilisateurs B vers un serveur du LAN Serveurs A, port 443 : autorisé
+TCP depuis un poste du LAN Utilisateurs B vers un serveur du LAN Serveurs A, port 22 : bloqué

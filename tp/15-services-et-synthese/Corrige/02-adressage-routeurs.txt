@@ -1,0 +1,8 @@
+# TP 15 - Exercice 2 : adresses des interfaces de R1 et R2
+# Voir 00-cahier-des-charges.md pour la convention d'attribution
+
+Adresse de R1 sur le LAN Utilisateurs A (Fa0/0) : 192.168.100.1
+Adresse de R1 sur le LAN Serveurs A (Fa0/1) : 192.168.100.97
+Adresse de R1 sur la liaison WAN (Se0/0/0) : 192.168.100.113
+Adresse de R2 sur le LAN Utilisateurs B (Fa0/0) : 192.168.100.65
+Adresse de R2 sur la liaison WAN (Se0/0/0) : 192.168.100.114

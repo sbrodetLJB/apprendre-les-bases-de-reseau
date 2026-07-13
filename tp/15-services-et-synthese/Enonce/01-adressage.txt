@@ -1,0 +1,11 @@
+# TP 15 - Exercice 1 : découpage VLSM de 192.168.100.0/24
+# Voir 00-cahier-des-charges.md pour les besoins en hôtes
+
+Masque CIDR du LAN Utilisateurs A :
+Adresse réseau du LAN Utilisateurs A :
+Masque CIDR du LAN Utilisateurs B :
+Adresse réseau du LAN Utilisateurs B :
+Masque CIDR du LAN Serveurs A :
+Adresse réseau du LAN Serveurs A :
+Masque CIDR de la liaison WAN R1-R2 :
+Adresse réseau de la liaison WAN R1-R2 :

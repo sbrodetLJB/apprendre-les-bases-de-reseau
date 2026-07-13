@@ -1,0 +1,25 @@
+{
+  "tp": "15-services-et-synthese",
+  "cases": [
+    {
+      "name": "1 - VLSM",
+      "referenceFile": "tp/15-services-et-synthese/Corrige/01-adressage.txt",
+      "studentFile": "01-adressage.txt"
+    },
+    {
+      "name": "2 - adresses des routeurs",
+      "referenceFile": "tp/15-services-et-synthese/Corrige/02-adressage-routeurs.txt",
+      "studentFile": "02-adressage-routeurs.txt"
+    },
+    {
+      "name": "3 - routage",
+      "referenceFile": "tp/15-services-et-synthese/Corrige/03-routage.txt",
+      "studentFile": "03-routage.txt"
+    },
+    {
+      "name": "4 - filtrage",
+      "referenceFile": "tp/15-services-et-synthese/Corrige/04-filtrage.txt",
+      "studentFile": "04-filtrage.txt"
+    }
+  ]
+}
