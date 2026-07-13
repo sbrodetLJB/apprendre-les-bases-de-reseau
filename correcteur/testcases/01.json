@@ -1,0 +1,15 @@
+{
+  "tp": "01-introduction-aux-reseaux",
+  "cases": [
+    {
+      "name": "1 - à quelle couche appartient chaque unité de données",
+      "referenceFile": "tp/01-introduction-aux-reseaux/Corrige/01-couches.txt",
+      "studentFile": "01-couches.txt"
+    },
+    {
+      "name": "2 - quelle couche est responsable de chaque tâche",
+      "referenceFile": "tp/01-introduction-aux-reseaux/Corrige/02-taches.txt",
+      "studentFile": "02-taches.txt"
+    }
+  ]
+}

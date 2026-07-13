@@ -1,0 +1,20 @@
+{
+  "tp": "05-masques-et-cidr",
+  "cases": [
+    {
+      "name": "1 - conversions CIDR/décimal",
+      "referenceFile": "tp/05-masques-et-cidr/Corrige/01-conversion-masques.txt",
+      "studentFile": "01-conversion-masques.txt"
+    },
+    {
+      "name": "2 - calcul complet 192.168.5.130/27",
+      "referenceFile": "tp/05-masques-et-cidr/Corrige/02-calcul-reseau-1.txt",
+      "studentFile": "02-calcul-reseau-1.txt"
+    },
+    {
+      "name": "3 - calcul complet 10.4.200.9/22",
+      "referenceFile": "tp/05-masques-et-cidr/Corrige/03-calcul-reseau-2.txt",
+      "studentFile": "03-calcul-reseau-2.txt"
+    }
+  ]
+}

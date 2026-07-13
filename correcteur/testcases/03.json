@@ -1,0 +1,20 @@
+{
+  "tp": "03-numeration-hexadecimale-octale",
+  "cases": [
+    {
+      "name": "1 - binaire <-> hexadécimal",
+      "referenceFile": "tp/03-numeration-hexadecimale-octale/Corrige/01-binaire-hexadecimal.txt",
+      "studentFile": "01-binaire-hexadecimal.txt"
+    },
+    {
+      "name": "2 - hexadécimal <-> décimal",
+      "referenceFile": "tp/03-numeration-hexadecimale-octale/Corrige/02-hexadecimal-decimal.txt",
+      "studentFile": "02-hexadecimal-decimal.txt"
+    },
+    {
+      "name": "3 - octal",
+      "referenceFile": "tp/03-numeration-hexadecimale-octale/Corrige/03-octal.txt",
+      "studentFile": "03-octal.txt"
+    }
+  ]
+}

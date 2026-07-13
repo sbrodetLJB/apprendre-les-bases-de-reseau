@@ -1,0 +1,15 @@
+{
+  "tp": "06-decoupage-en-sous-reseaux",
+  "cases": [
+    {
+      "name": "1 - découpage à taille fixe",
+      "referenceFile": "tp/06-decoupage-en-sous-reseaux/Corrige/01-taille-fixe.txt",
+      "studentFile": "01-taille-fixe.txt"
+    },
+    {
+      "name": "2 - VLSM",
+      "referenceFile": "tp/06-decoupage-en-sous-reseaux/Corrige/02-vlsm.txt",
+      "studentFile": "02-vlsm.txt"
+    }
+  ]
+}

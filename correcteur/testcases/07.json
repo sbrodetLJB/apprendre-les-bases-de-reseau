@@ -1,0 +1,20 @@
+{
+  "tp": "07-adressage-ipv4-avance",
+  "cases": [
+    {
+      "name": "1 - résumé de routes",
+      "referenceFile": "tp/07-adressage-ipv4-avance/Corrige/01-resume-de-routes.txt",
+      "studentFile": "01-resume-de-routes.txt"
+    },
+    {
+      "name": "2 - NAT",
+      "referenceFile": "tp/07-adressage-ipv4-avance/Corrige/02-nat.txt",
+      "studentFile": "02-nat.txt"
+    },
+    {
+      "name": "3 - adresses spéciales",
+      "referenceFile": "tp/07-adressage-ipv4-avance/Corrige/03-adresses-speciales.txt",
+      "studentFile": "03-adresses-speciales.txt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tp": "02-numeration-binaire",
+  "cases": [
+    {
+      "name": "1 - binaire vers décimal",
+      "referenceFile": "tp/02-numeration-binaire/Corrige/01-binaire-vers-decimal.txt",
+      "studentFile": "01-binaire-vers-decimal.txt"
+    },
+    {
+      "name": "2 - décimal vers binaire",
+      "referenceFile": "tp/02-numeration-binaire/Corrige/02-decimal-vers-binaire.txt",
+      "studentFile": "02-decimal-vers-binaire.txt"
+    },
+    {
+      "name": "3 - opérations ET et OU",
+      "referenceFile": "tp/02-numeration-binaire/Corrige/03-operations-et-ou.txt",
+      "studentFile": "03-operations-et-ou.txt"
+    }
+  ]
+}

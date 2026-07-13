@@ -1,0 +1,20 @@
+{
+  "tp": "04-adressage-ipv4",
+  "cases": [
+    {
+      "name": "1 - conversion en binaire",
+      "referenceFile": "tp/04-adressage-ipv4/Corrige/01-conversion-binaire.txt",
+      "studentFile": "01-conversion-binaire.txt"
+    },
+    {
+      "name": "2 - classes",
+      "referenceFile": "tp/04-adressage-ipv4/Corrige/02-classes.txt",
+      "studentFile": "02-classes.txt"
+    },
+    {
+      "name": "3 - privée ou publique",
+      "referenceFile": "tp/04-adressage-ipv4/Corrige/03-privee-ou-publique.txt",
+      "studentFile": "03-privee-ou-publique.txt"
+    }
+  ]
+}
