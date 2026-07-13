@@ -1,0 +1,6 @@
+# TP 14 - Exercice 1 : quel service utilise ce port ?
+
+Port 80 : HTTP
+Port 443 : HTTPS
+Port 22 : SSH
+Port 53 : DNS

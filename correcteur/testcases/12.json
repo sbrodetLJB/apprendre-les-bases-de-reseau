@@ -1,0 +1,10 @@
+{
+  "tp": "12-routage",
+  "cases": [
+    {
+      "name": "1 - table de routage",
+      "referenceFile": "tp/12-routage/Corrige/01-table-de-routage.txt",
+      "studentFile": "01-table-de-routage.txt"
+    }
+  ]
+}

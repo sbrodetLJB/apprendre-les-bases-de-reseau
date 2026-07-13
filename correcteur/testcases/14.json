@@ -1,0 +1,15 @@
+{
+  "tp": "14-filtrage-et-securite",
+  "cases": [
+    {
+      "name": "1 - ports bien connus",
+      "referenceFile": "tp/14-filtrage-et-securite/Corrige/01-ports.txt",
+      "studentFile": "01-ports.txt"
+    },
+    {
+      "name": "2 - évaluer une ACL",
+      "referenceFile": "tp/14-filtrage-et-securite/Corrige/02-acl.txt",
+      "studentFile": "02-acl.txt"
+    }
+  ]
+}

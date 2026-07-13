@@ -1,0 +1,9 @@
+# TP 12 - Exercice 1 : à partir de la table de routage de l'exemple du cours
+# (192.168.1.0/24 et 192.168.2.0/24 connectés directement, 10.0.0.0/8 via 192.168.1.254,
+#  10.0.5.0/24 via 192.168.2.254, 0.0.0.0/0 via 192.168.1.1)
+# Si directement connecté, réponds "connecté directement" (sans préciser l'interface)
+
+Destination 192.168.1.50, prochain saut : connecté directement
+Destination 10.0.5.20, prochain saut : 192.168.2.254
+Destination 10.1.1.1, prochain saut : 192.168.1.254
+Destination 8.8.8.8, prochain saut : 192.168.1.1

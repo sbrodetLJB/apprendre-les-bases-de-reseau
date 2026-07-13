@@ -1,0 +1,6 @@
+# TP 13 - Exercice 1 : routage dynamique
+
+Nom du protocole à vecteur de distance limité à 15 sauts : RIP
+Nom du protocole à état de liens qui calcule lui-même le meilleur chemin : OSPF
+Un routeur RIP connaît-il une carte complète du réseau (oui/non) : non
+Le routage dynamique nécessite-t-il une reconfiguration manuelle après une panne de lien (oui/non) : non

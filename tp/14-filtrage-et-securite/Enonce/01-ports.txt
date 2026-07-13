@@ -1,0 +1,6 @@
+# TP 14 - Exercice 1 : quel service utilise ce port ?
+
+Port 80 :
+Port 443 :
+Port 22 :
+Port 53 :

@@ -1,0 +1,9 @@
+# TP 14 - Exercice 2 : évalue chaque paquet contre l'ACL de l'exemple du cours
+# (1: PERMIT TCP 192.168.1.0/24 -> any port 443 ; 2: PERMIT TCP any -> 192.168.1.10 port 22 ;
+#  3: DENY TCP 192.168.1.0/24 -> any tout port ; puis deny implicite)
+# Réponds par "autorisé" ou "bloqué"
+
+TCP 192.168.1.5 vers 8.8.8.8 port 443 :
+TCP 203.0.113.9 vers 192.168.1.10 port 22 :
+TCP 192.168.1.5 vers 8.8.8.8 port 80 :
+UDP 203.0.113.20 vers 192.168.1.10 port 53 :

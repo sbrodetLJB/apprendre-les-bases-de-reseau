@@ -1,0 +1,10 @@
+{
+  "tp": "13-routage-dynamique",
+  "cases": [
+    {
+      "name": "1 - protocoles de routage dynamique",
+      "referenceFile": "tp/13-routage-dynamique/Corrige/01-protocoles.txt",
+      "studentFile": "01-protocoles.txt"
+    }
+  ]
+}
