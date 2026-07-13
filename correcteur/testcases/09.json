@@ -1,0 +1,15 @@
+{
+  "tp": "09-sous-reseaux-ipv6",
+  "cases": [
+    {
+      "name": "1 - sous-réseaux à partir d'un bloc /48",
+      "referenceFile": "tp/09-sous-reseaux-ipv6/Corrige/01-sous-reseaux.txt",
+      "studentFile": "01-sous-reseaux.txt"
+    },
+    {
+      "name": "2 - cohabitation IPv4/IPv6",
+      "referenceFile": "tp/09-sous-reseaux-ipv6/Corrige/02-dual-stack.txt",
+      "studentFile": "02-dual-stack.txt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tp": "08-adressage-ipv6",
+  "cases": [
+    {
+      "name": "1 - compression",
+      "referenceFile": "tp/08-adressage-ipv6/Corrige/01-compression.txt",
+      "studentFile": "01-compression.txt"
+    },
+    {
+      "name": "2 - décompression",
+      "referenceFile": "tp/08-adressage-ipv6/Corrige/02-decompression.txt",
+      "studentFile": "02-decompression.txt"
+    },
+    {
+      "name": "3 - types d'adresses",
+      "referenceFile": "tp/08-adressage-ipv6/Corrige/03-types-adresses.txt",
+      "studentFile": "03-types-adresses.txt"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# TP 9 - Exercice 2 : cohabitation IPv4/IPv6
+
+Nom donné à une machine configurée simultanément en IPv4 et IPv6 : dual-stack
+Taille de préfixe conventionnelle d'un sous-réseau LAN IPv6 (ex: /64) : /64

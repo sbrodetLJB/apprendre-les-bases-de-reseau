@@ -1,0 +1,5 @@
+# TP 8 - Exercice 2 : développer chaque adresse IPv6 (8 groupes de 4 chiffres, zéros de tête inclus)
+# Réponds en minuscules
+
+2001:db8::1 : 2001:0db8:0000:0000:0000:0000:0000:0001
+fe80::1 : fe80:0000:0000:0000:0000:0000:0000:0001

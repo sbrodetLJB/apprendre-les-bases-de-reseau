@@ -1,0 +1,9 @@
+# TP 8 - Exercice 3 : quel est le type de chaque adresse ?
+# Réponds par : unicast global, unique local, link-local, multicast, loopback, non spécifiée ou documentation
+
+2606:4700:4700::1111 :
+fe80::1 :
+ff02::1 :
+::1 :
+2001:db8::5 :
+:: :

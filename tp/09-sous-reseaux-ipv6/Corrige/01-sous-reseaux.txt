@@ -1,0 +1,6 @@
+# TP 9 - Exercice 1 : à partir du bloc délégué 2001:db8:aa::/48
+# Réponds par l'adresse /64 compressée de chaque sous-réseau, en minuscules
+
+Sous-réseau n°0 : 2001:db8:aa::/64
+Sous-réseau n°5 : 2001:db8:aa:5::/64
+Sous-réseau n°26 : 2001:db8:aa:1a::/64

@@ -72,14 +72,18 @@ public static class TextAnswerRunner
                 continue;
             }
 
-            var separatorIndex = line.IndexOf(':');
+            // Le délimiteur "clé : valeur" est toujours un espace suivi d'un ":" (jamais un
+            // simple ":" isolé) : une clé peut elle-même contenir des deux-points (adresse
+            // IPv6, ex. "fe80::1 : link-local"), donc chercher le premier ":" tout court
+            // couperait la clé en plein milieu.
+            var separatorIndex = line.IndexOf(" :", StringComparison.Ordinal);
             if (separatorIndex < 0)
             {
                 continue;
             }
 
             var key = line[..separatorIndex].Trim();
-            var value = line[(separatorIndex + 1)..].Trim();
+            var value = line[(separatorIndex + 2)..].Trim();
             result.Add((key, value));
         }
 
