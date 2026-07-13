@@ -1,0 +1,8 @@
+# TP 4 - Exercice 3 : adresse privée ou publique ?
+# Réponds par "privée" ou "publique"
+
+10.0.5.200 :
+172.16.254.1 :
+172.32.5.5 :
+192.168.1.10 :
+8.8.8.8 :

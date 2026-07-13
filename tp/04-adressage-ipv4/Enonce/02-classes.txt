@@ -1,0 +1,7 @@
+# TP 4 - Exercice 2 : quelle est la classe de chaque adresse ?
+# Réponds par une seule lettre : A, B, C ou D
+
+10.0.5.200 :
+172.16.254.1 :
+192.168.1.10 :
+224.0.0.5 :

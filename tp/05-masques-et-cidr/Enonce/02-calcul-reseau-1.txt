@@ -1,0 +1,7 @@
+# TP 5 - Exercice 2 : calcul complet pour 192.168.5.130/27
+
+Adresse réseau :
+Adresse de diffusion :
+Première adresse utilisable :
+Dernière adresse utilisable :
+Nombre d'hôtes utilisables :

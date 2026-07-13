@@ -1,0 +1,6 @@
+# TP 4 - Exercice 1 : convertir une adresse IPv4 en binaire
+# Réponds au format xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx (un point entre chaque octet)
+
+192.168.1.10 : 11000000.10101000.00000001.00001010
+10.0.5.200 : 00001010.00000000.00000101.11001000
+172.16.254.1 : 10101100.00010000.11111110.00000001

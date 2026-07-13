@@ -1,0 +1,8 @@
+# TP 5 - Exercice 3 : calcul complet pour 10.4.200.9/22
+# Ce sous-réseau est plus grand que /24 : sa partie hôte déborde sur le 3e octet, réfléchis en binaire si besoin
+
+Adresse réseau :
+Adresse de diffusion :
+Première adresse utilisable :
+Dernière adresse utilisable :
+Nombre d'hôtes utilisables :

@@ -1,0 +1,6 @@
+# TP 5 - Exercice 1 : conversions entre notation CIDR et notation décimale
+
+/20 (vers décimal) :
+/28 (vers décimal) :
+255.255.240.0 (vers CIDR) :
+255.255.255.248 (vers CIDR) :
