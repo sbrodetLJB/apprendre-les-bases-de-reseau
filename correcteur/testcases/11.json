@@ -1,0 +1,10 @@
+{
+  "tp": "11-vlan",
+  "cases": [
+    {
+      "name": "1 - VLAN",
+      "referenceFile": "tp/11-vlan/Corrige/01-vlan.txt",
+      "studentFile": "01-vlan.txt"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# TP 11 - Exercice 1 : à partir de la topologie de l'exemple du cours
+# (PC1/PC2 en VLAN 10 sur SW1, PC3 en VLAN 20 sur SW1, PC4 en VLAN 20 sur SW2,
+#  SW1 et SW2 reliés par un trunk transportant les VLAN 10 et 20)
+# Réponds "oui" ou "non" aux trois premières lignes, "accès" ou "trunk" aux deux dernières
+
+PC1 et PC2 peuvent-ils communiquer directement (sans routeur) : oui
+PC1 et PC3 peuvent-ils communiquer directement (sans routeur) : non
+PC3 et PC4 peuvent-ils communiquer directement (sans routeur) : oui
+Mode du port Fa0/1 sur SW1 : accès
+Mode du port Fa0/24 sur SW1 : trunk

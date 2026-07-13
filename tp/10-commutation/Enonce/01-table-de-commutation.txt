@@ -1,0 +1,12 @@
+# TP 10 - Exercice 1 : table de commutation
+# Topologie : PC1 (AA:AA:AA:AA:AA:01) sur Fa0/1, PC2 (AA:AA:AA:AA:AA:02) sur Fa0/2,
+# PC3 (AA:AA:AA:AA:AA:03) sur Fa0/3, tous reliés au même switch SW1. Table initialement vide.
+# Trame 1 : PC1 envoie à PC2. Trame 2 : PC2 répond à PC1. Trame 3 : PC3 envoie à PC1.
+# Pour plusieurs ports, sépare-les par " et " (ex: "Fa0/2 et Fa0/3")
+
+Port associé à AA:AA:AA:AA:AA:01 après ces 3 trames :
+Port associé à AA:AA:AA:AA:AA:02 après ces 3 trames :
+Port associé à AA:AA:AA:AA:AA:03 après ces 3 trames :
+Trame 1 (PC1 vers PC2) transmise sur :
+Trame 2 (PC2 vers PC1) transmise sur :
+Trame 3 (PC3 vers PC1) transmise sur :

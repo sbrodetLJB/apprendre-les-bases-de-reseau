@@ -1,0 +1,5 @@
+# TP 10 - Exercice 2 : domaines de collision et de diffusion
+
+Nombre de domaines de diffusion séparés par un switch (à lui seul) reliant 5 PC :
+Nombre de domaines de collision par port, sur un switch moderne en full-duplex :
+Équipement vu dans ce cours qui segmente un domaine de diffusion :

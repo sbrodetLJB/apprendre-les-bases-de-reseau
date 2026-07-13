@@ -1,0 +1,15 @@
+{
+  "tp": "10-commutation",
+  "cases": [
+    {
+      "name": "1 - table de commutation",
+      "referenceFile": "tp/10-commutation/Corrige/01-table-de-commutation.txt",
+      "studentFile": "01-table-de-commutation.txt"
+    },
+    {
+      "name": "2 - domaines de collision et de diffusion",
+      "referenceFile": "tp/10-commutation/Corrige/02-domaines.txt",
+      "studentFile": "02-domaines.txt"
+    }
+  ]
+}
