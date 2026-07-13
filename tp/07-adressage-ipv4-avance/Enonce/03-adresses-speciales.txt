@@ -1,0 +1,7 @@
+# TP 7 - Exercice 3 : identifie le type de chaque adresse
+# Réponds par : APIPA, loopback, documentation (TEST-NET) ou indéterminée
+
+169.254.5.5 :
+127.0.0.1 :
+192.0.2.15 :
+0.0.0.0 :

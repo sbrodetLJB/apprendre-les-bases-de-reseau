@@ -1,0 +1,6 @@
+# TP 7 - Exercice 2 : NAT
+# Une machine d'adresse privée 192.168.1.50 accède à un serveur web distant via un routeur
+# qui fait du NAT avec l'adresse publique 203.0.113.10.
+
+Adresse source vue par le serveur web distant : 203.0.113.10
+Une adresse privée est-elle directement routable sur Internet (oui/non) : non

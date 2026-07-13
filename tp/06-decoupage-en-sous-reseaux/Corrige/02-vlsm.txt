@@ -1,0 +1,10 @@
+# TP 6 - Exercice 2 : VLSM à partir de 192.168.20.0/24
+# Besoins : Site A (100 hôtes), Site B (50 hôtes), Site C (20 hôtes)
+# Réponds au masque CIDR par exemple sous la forme /26
+
+Masque CIDR du sous-réseau Site A : /25
+Adresse réseau du sous-réseau Site A : 192.168.20.0
+Masque CIDR du sous-réseau Site B : /26
+Adresse réseau du sous-réseau Site B : 192.168.20.128
+Masque CIDR du sous-réseau Site C : /27
+Adresse réseau du sous-réseau Site C : 192.168.20.192
