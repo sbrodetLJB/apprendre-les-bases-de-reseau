@@ -1,0 +1,7 @@
+# TP 3 - Exercice 2 : conversions hexadécimal <-> décimal
+# Pour l'hexadécimal, utilise des lettres majuscules (ex: "B4", pas "b4")
+
+9F (hexadécimal vers décimal) : 159
+3C (hexadécimal vers décimal) : 60
+202 (décimal vers hexadécimal) : CA
+58 (décimal vers hexadécimal) : 3A

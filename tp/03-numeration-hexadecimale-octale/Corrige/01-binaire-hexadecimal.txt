@@ -1,0 +1,8 @@
+# TP 3 - Exercice 1 : conversions binaire <-> hexadécimal
+# Pour l'hexadécimal, utilise des lettres majuscules (ex: "B4", pas "b4")
+
+10110100 (binaire vers hexadécimal) : B4
+11111111 (binaire vers hexadécimal) : FF
+00101010 (binaire vers hexadécimal) : 2A
+01111100 (binaire vers hexadécimal) : 7C
+9F (hexadécimal vers binaire, sur 8 bits) : 10011111

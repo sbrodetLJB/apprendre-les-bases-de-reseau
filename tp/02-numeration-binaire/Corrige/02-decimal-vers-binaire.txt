@@ -1,0 +1,7 @@
+# TP 2 - Exercice 2 : convertir en binaire, sur 8 bits (avec les zéros de tête si besoin)
+
+200 : 11001000
+91 : 01011011
+34 : 00100010
+127 : 01111111
+5 : 00000101

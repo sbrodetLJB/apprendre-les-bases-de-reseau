@@ -1,0 +1,8 @@
+# TP 2 - Exercice 1 : convertir en décimal
+# Réponds par un nombre décimal (pas de zéros de tête)
+
+00001111 :
+10110100 :
+11111000 :
+01000001 :
+11111111 :

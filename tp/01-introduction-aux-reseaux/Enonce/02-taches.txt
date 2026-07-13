@@ -1,0 +1,7 @@
+# TP 1 - Exercice 2 : quelle couche est responsable de chaque tâche ?
+# Réponds par l'un des quatre : Application / Transport / Internet / Accès réseau
+
+Déterminer sur quel port du switch envoyer une trame :
+Déterminer quel réseau contacter pour joindre une adresse IP distante :
+Découper les données et gérer les ports source et destination :
+Afficher le contenu d'une page web reçue :

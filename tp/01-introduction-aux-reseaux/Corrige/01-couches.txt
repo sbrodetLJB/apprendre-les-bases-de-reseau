@@ -1,0 +1,8 @@
+# TP 1 - Exercice 1 : à quelle couche appartient chaque unité de données ?
+# Réponds pour chaque ligne par l'un des quatre : Application / Transport / Internet / Accès réseau
+# (voir le tableau "Un modèle en couches pour s'y retrouver" du cours)
+
+Message : Application
+Segment : Transport
+Paquet : Internet
+Trame : Accès réseau

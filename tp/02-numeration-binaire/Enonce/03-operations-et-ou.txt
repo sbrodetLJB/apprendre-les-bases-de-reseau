@@ -1,0 +1,7 @@
+# TP 2 - Exercice 3 : opérations bit à bit ET et OU
+# Réponds par un octet sur 8 bits
+
+10101100 ET 11110000 :
+10101100 OU 11110000 :
+00001111 ET 11111111 :
+00001111 OU 00000000 :

@@ -1,0 +1,5 @@
+# TP 3 - Exercice 3 : conversions avec l'octal
+
+101110 (binaire vers octal) : 56
+27 (octal vers décimal) : 23
+100 (décimal vers octal) : 144
